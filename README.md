@@ -88,6 +88,8 @@ $: yarn add @maverick-js/signals
 ## API
 
 - [`root`](#root)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/maverick-js/signals)
 - [`signal`](#signal)
 - [`computed`](#computed)
 - [`effect`](#effect)
